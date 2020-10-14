@@ -1,0 +1,13 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LESS_FOUR_PRINT   3004
+//	LESS_FOUR_BITS    3008
+//	SKIP_DIGIT        300E
+//	CHECK_DIGIT       3011
+//	ASCII_MINUS_TEN   3019
+//	DONE              301E
+//	ASCII_ZERO        301F
+//	A_MINUS_TEN       3020
+

@@ -1,0 +1,13 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	CHECK_2           3005
+//	CHECK_3           300C
+//	CHECK_5           3014
+//	STEP5             301C
+//	DIVIDE            301E
+//	DIVLOOP           3023
+//	SAVER7            302D
+//	SAVER3            302E
+

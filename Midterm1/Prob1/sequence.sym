@@ -1,0 +1,21 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	INPUT             300A
+//	CHECK_INPUT       300E
+//	LENGTHS           3014
+//	CHECK             3016
+//	INCREMENT         301D
+//	NEWMAX            3025
+//	RESET             3027
+//	DONE              302B
+//	ASTER             302D
+//	ASCII_0           302E
+//	ASCII_9           302F
+//	stringInput       3030
+//	maxLength         3046
+//	length            3047
+//	previous          3048
+//	current           3049
+

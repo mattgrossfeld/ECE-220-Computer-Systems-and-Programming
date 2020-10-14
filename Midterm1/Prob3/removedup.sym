@@ -1,0 +1,10 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	CHECKVAL          300B
+//	END               3016
+//	PULL              3017
+//	SAVER7            301E
+//	SEQ_START         301F
+

@@ -1,0 +1,14 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	ECEGRADE          3004
+//	CHECK_2           300A
+//	CHECK_3           3011
+//	CHECK_5           3019
+//	STEP5             3021
+//	DIVIDE            3023
+//	DIVLOOP           3028
+//	SAVER7            3032
+//	SAVER3            3033
+

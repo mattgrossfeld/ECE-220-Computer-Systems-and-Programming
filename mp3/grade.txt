@@ -1,0 +1,26 @@
+Compilation Results:
+********************
+
+Test Case 1:
+********************
+Total error is 0.441682 percent.
+
+Test Case 2:
+********************
+Total error is 0.000254 percent.
+
+Test Case 3:
+********************
+Total error is 0.000657 percent.
+
+Test Case 4:
+********************
+Total error is 0.001232 percent.
+
+Grade:
+******
+Late submission: 0
+Functionality:67.5
+Comments and Style: 5
+Intro paragraph: 5
+Total: 77.5

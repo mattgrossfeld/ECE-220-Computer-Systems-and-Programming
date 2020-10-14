@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	INITARR           3008
+//	ARRAY_ZERO        3010
+//	ARRAY_SUM         301E
+//	FOR_LOOP          302E
+//	GET_SUM           3032
+//	TEAR_DOWN         3039
+//	STACK             303F
+

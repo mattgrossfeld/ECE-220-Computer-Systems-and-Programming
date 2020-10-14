@@ -1,0 +1,15 @@
+Record your answers here for Problem 4.
+Please limit each answer to no more than 3 sentences.
+
+
+1.Explain the difference between while loop and do-while loop. (5 points)
+The while loop checks a condition first, whereas do-while does the code, then checks. 
+A while loop might not run once in a program, but a do-while would run atleast once.
+
+
+
+
+2.Explain when you can use binary search and its advantage over linear search. (5 points)
+Binary search can be used when you have an array that is in numerical order (ascending) it is better to use than linear search because it doesn't take as long to find an item (linear goes through entire array until item is found, whereas binary search can go through half the array).
+
+
